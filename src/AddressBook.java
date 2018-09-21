@@ -1,5 +1,5 @@
 import java.util.*;
-//tashfiq
+//Tashfiq Akhand
 public class AddressBook {
 	
 	private List<BuddyInfo> buddyInfo;
